@@ -23,7 +23,6 @@ public class Tarea {
 
     // Constructor con parámetros
     public Tarea(String titulo, String descripcion, Boolean completada, Proyecto proyecto) {
-        this.id = id;
         this.titulo = titulo;
         this.descripcion = descripcion;
         this.completada = completada;
