@@ -18,7 +18,7 @@ public class Proyecto {
     private Boolean activo;
 
     // Constructor vacío
-    public Proyecto(String nombre, String descripcion, LocalDate fechaInicio, boolean activo) {}
+    public Proyecto() {}
 
     // Constructor con parámetros
     public Proyecto(String nombre, String descripcion, LocalDate fechaInicio, Boolean activo) {
